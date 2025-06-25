@@ -1,0 +1,31 @@
+D:\Projects\Yazılım\C#\Ödev 2011-12-22 (2)\Loto Oyunu\bin\Debug\Loto Oyunu.exe
+D:\Projects\Yazılım\C#\Ödev 2011-12-22 (2)\Loto Oyunu\bin\Debug\Loto Oyunu.pdb
+D:\Projects\Yazılım\C#\Ödev 2011-12-22 (2)\Loto Oyunu\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Projects\Yazılım\C#\Ödev 2011-12-22 (2)\Loto Oyunu\obj\x86\Debug\Loto_Oyunu.Form1.resources
+D:\Projects\Yazılım\C#\Ödev 2011-12-22 (2)\Loto Oyunu\obj\x86\Debug\Loto_Oyunu.Properties.Resources.resources
+D:\Projects\Yazılım\C#\Ödev 2011-12-22 (2)\Loto Oyunu\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\Projects\Yazılım\C#\Ödev 2011-12-22 (2)\Loto Oyunu\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\Projects\Yazılım\C#\Ödev 2011-12-22 (2)\Loto Oyunu\obj\x86\Debug\Loto Oyunu.exe
+D:\Projects\Yazılım\C#\Ödev 2011-12-22 (2)\Loto Oyunu\obj\x86\Debug\Loto Oyunu.pdb
+C:\Users\Ali\Desktop\Ödev 2011-12-22 (2)\Loto Oyunu\obj\x86\Debug\Loto Oyunu.exe
+C:\Users\Ali\Desktop\Ödev 2011-12-22 (2)\Loto Oyunu\obj\x86\Debug\Loto Oyunu.pdb
+C:\Users\Ali\Desktop\Ödev 2011-12-22 (2)\Loto Oyunu\bin\Debug\Loto Oyunu.exe
+C:\Users\Ali\Desktop\Ödev 2011-12-22 (2)\Loto Oyunu\bin\Debug\Loto Oyunu.pdb
+C:\Users\Ali\Desktop\Ödev 2011-12-22 (2)\Loto Oyunu\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Ali\Desktop\Ödev 2011-12-22 (2)\Loto Oyunu\obj\x86\Debug\Loto_Oyunu.Form1.resources
+C:\Users\Ali\Desktop\Ödev 2011-12-22 (2)\Loto Oyunu\obj\x86\Debug\Loto_Oyunu.Properties.Resources.resources
+C:\Users\Ali\Desktop\Ödev 2011-12-22 (2)\Loto Oyunu\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Ali\Desktop\Ödev 2011-12-22 (2)\Loto Oyunu\obj\x86\Debug\GenerateResource.write.1.tlog
+G:\Ödev\_Ödev 2011-12-22 (2)\Loto Oyunu\obj\x86\Debug\Loto Oyunu.exe
+G:\Ödev\_Ödev 2011-12-22 (2)\Loto Oyunu\obj\x86\Debug\Loto Oyunu.pdb
+C:\Users\Ali\Desktop\_Ödev 2011-12-22 (2)\Loto Oyunu\obj\x86\Debug\Loto Oyunu.exe
+C:\Users\Ali\Desktop\_Ödev 2011-12-22 (2)\Loto Oyunu\obj\x86\Debug\Loto Oyunu.pdb
+C:\Users\Ali\Desktop\_Ödev 2011-12-22 (2)\Loto Oyunu\bin\Debug\Loto Oyunu.exe
+C:\Users\Ali\Desktop\_Ödev 2011-12-22 (2)\Loto Oyunu\bin\Debug\Loto Oyunu.pdb
+C:\Users\Ali\Desktop\_Ödev 2011-12-22 (2)\Loto Oyunu\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Ali\Desktop\_Ödev 2011-12-22 (2)\Loto Oyunu\obj\x86\Debug\Loto_Oyunu.Form1.resources
+C:\Users\Ali\Desktop\_Ödev 2011-12-22 (2)\Loto Oyunu\obj\x86\Debug\Loto_Oyunu.Properties.Resources.resources
+C:\Users\Ali\Desktop\_Ödev 2011-12-22 (2)\Loto Oyunu\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Ali\Desktop\_Ödev 2011-12-22 (2)\Loto Oyunu\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\Projects\Yazılım\C#\Ödev 2011-12-22 (2) Loto Oyunu\Loto Oyunu\obj\x86\Debug\Loto Oyunu.exe
+D:\Projects\Yazılım\C#\Ödev 2011-12-22 (2) Loto Oyunu\Loto Oyunu\obj\x86\Debug\Loto Oyunu.pdb

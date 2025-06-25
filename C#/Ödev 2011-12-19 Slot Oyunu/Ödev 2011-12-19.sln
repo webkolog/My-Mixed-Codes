@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Slot Oyunu", "Slot Oyunu\Slot Oyunu.csproj", "{2BD45671-8962-4646-8152-2F0951A90363}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2BD45671-8962-4646-8152-2F0951A90363}.Debug|x86.ActiveCfg = Debug|x86
+		{2BD45671-8962-4646-8152-2F0951A90363}.Debug|x86.Build.0 = Debug|x86
+		{2BD45671-8962-4646-8152-2F0951A90363}.Release|x86.ActiveCfg = Release|x86
+		{2BD45671-8962-4646-8152-2F0951A90363}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,9 @@
+D:\Projects\Yazılım\C#\Ödev 2011-12-20\Çarpım Tablosu\bin\Debug\Çarpım Tablosu.exe
+D:\Projects\Yazılım\C#\Ödev 2011-12-20\Çarpım Tablosu\bin\Debug\Çarpım Tablosu.pdb
+D:\Projects\Yazılım\C#\Ödev 2011-12-20\Çarpım Tablosu\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Projects\Yazılım\C#\Ödev 2011-12-20\Çarpım Tablosu\obj\x86\Debug\Çarpım_Tablosu.Form1.resources
+D:\Projects\Yazılım\C#\Ödev 2011-12-20\Çarpım Tablosu\obj\x86\Debug\Çarpım_Tablosu.Properties.Resources.resources
+D:\Projects\Yazılım\C#\Ödev 2011-12-20\Çarpım Tablosu\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\Projects\Yazılım\C#\Ödev 2011-12-20\Çarpım Tablosu\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\Projects\Yazılım\C#\Ödev 2011-12-20\Çarpım Tablosu\obj\x86\Debug\Çarpım Tablosu.exe
+D:\Projects\Yazılım\C#\Ödev 2011-12-20\Çarpım Tablosu\obj\x86\Debug\Çarpım Tablosu.pdb

@@ -1,0 +1,9 @@
+D:\Projects\Yazılım\C#\Ödev 2011-12-20 (2)\Çiftleri Toplama\bin\Debug\Çiftleri Toplama.exe
+D:\Projects\Yazılım\C#\Ödev 2011-12-20 (2)\Çiftleri Toplama\bin\Debug\Çiftleri Toplama.pdb
+D:\Projects\Yazılım\C#\Ödev 2011-12-20 (2)\Çiftleri Toplama\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Projects\Yazılım\C#\Ödev 2011-12-20 (2)\Çiftleri Toplama\obj\x86\Debug\Çiftleri_Toplama.Form1.resources
+D:\Projects\Yazılım\C#\Ödev 2011-12-20 (2)\Çiftleri Toplama\obj\x86\Debug\Çiftleri_Toplama.Properties.Resources.resources
+D:\Projects\Yazılım\C#\Ödev 2011-12-20 (2)\Çiftleri Toplama\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\Projects\Yazılım\C#\Ödev 2011-12-20 (2)\Çiftleri Toplama\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\Projects\Yazılım\C#\Ödev 2011-12-20 (2)\Çiftleri Toplama\obj\x86\Debug\Çiftleri Toplama.exe
+D:\Projects\Yazılım\C#\Ödev 2011-12-20 (2)\Çiftleri Toplama\obj\x86\Debug\Çiftleri Toplama.pdb
