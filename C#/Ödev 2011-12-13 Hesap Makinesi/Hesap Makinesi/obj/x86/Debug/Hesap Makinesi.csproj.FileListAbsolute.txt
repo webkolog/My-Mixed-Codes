@@ -1,0 +1,9 @@
+D:\Projects\Yazılım\C#\Ödev 2011-12-13\Hesap Makinesi\bin\Debug\Hesap Makinesi.exe
+D:\Projects\Yazılım\C#\Ödev 2011-12-13\Hesap Makinesi\bin\Debug\Hesap Makinesi.pdb
+D:\Projects\Yazılım\C#\Ödev 2011-12-13\Hesap Makinesi\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Projects\Yazılım\C#\Ödev 2011-12-13\Hesap Makinesi\obj\x86\Debug\Hesap_Makinesi.Form1.resources
+D:\Projects\Yazılım\C#\Ödev 2011-12-13\Hesap Makinesi\obj\x86\Debug\Hesap_Makinesi.Properties.Resources.resources
+D:\Projects\Yazılım\C#\Ödev 2011-12-13\Hesap Makinesi\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\Projects\Yazılım\C#\Ödev 2011-12-13\Hesap Makinesi\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\Projects\Yazılım\C#\Ödev 2011-12-13\Hesap Makinesi\obj\x86\Debug\Hesap Makinesi.exe
+D:\Projects\Yazılım\C#\Ödev 2011-12-13\Hesap Makinesi\obj\x86\Debug\Hesap Makinesi.pdb

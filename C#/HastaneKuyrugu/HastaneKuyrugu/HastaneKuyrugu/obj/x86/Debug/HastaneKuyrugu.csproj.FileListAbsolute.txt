@@ -1,0 +1,27 @@
+c:\users\ali\documents\visual studio 2010\Projects\HastaneKuyrugu\HastaneKuyrugu\bin\Debug\HastaneKuyrugu.exe
+c:\users\ali\documents\visual studio 2010\Projects\HastaneKuyrugu\HastaneKuyrugu\bin\Debug\HastaneKuyrugu.pdb
+c:\users\ali\documents\visual studio 2010\Projects\HastaneKuyrugu\HastaneKuyrugu\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\ali\documents\visual studio 2010\Projects\HastaneKuyrugu\HastaneKuyrugu\obj\x86\Debug\HastaneKuyrugu.Form1.resources
+c:\users\ali\documents\visual studio 2010\Projects\HastaneKuyrugu\HastaneKuyrugu\obj\x86\Debug\HastaneKuyrugu.Properties.Resources.resources
+c:\users\ali\documents\visual studio 2010\Projects\HastaneKuyrugu\HastaneKuyrugu\obj\x86\Debug\GenerateResource.read.1.tlog
+c:\users\ali\documents\visual studio 2010\Projects\HastaneKuyrugu\HastaneKuyrugu\obj\x86\Debug\GenerateResource.write.1.tlog
+c:\users\ali\documents\visual studio 2010\Projects\HastaneKuyrugu\HastaneKuyrugu\obj\x86\Debug\HastaneKuyrugu.exe
+c:\users\ali\documents\visual studio 2010\Projects\HastaneKuyrugu\HastaneKuyrugu\obj\x86\Debug\HastaneKuyrugu.pdb
+C:\Users\Ali\Desktop\HastaneKuyrugu\HastaneKuyrugu\obj\x86\Debug\HastaneKuyrugu.exe
+C:\Users\Ali\Desktop\HastaneKuyrugu\HastaneKuyrugu\obj\x86\Debug\HastaneKuyrugu.pdb
+C:\Users\Ali\Desktop\HastaneKuyrugu\HastaneKuyrugu\bin\Debug\HastaneKuyrugu.exe
+C:\Users\Ali\Desktop\HastaneKuyrugu\HastaneKuyrugu\bin\Debug\HastaneKuyrugu.pdb
+C:\Users\Ali\Desktop\HastaneKuyrugu\HastaneKuyrugu\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Ali\Desktop\HastaneKuyrugu\HastaneKuyrugu\obj\x86\Debug\HastaneKuyrugu.Form1.resources
+C:\Users\Ali\Desktop\HastaneKuyrugu\HastaneKuyrugu\obj\x86\Debug\HastaneKuyrugu.Properties.Resources.resources
+C:\Users\Ali\Desktop\HastaneKuyrugu\HastaneKuyrugu\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Ali\Desktop\HastaneKuyrugu\HastaneKuyrugu\obj\x86\Debug\GenerateResource.write.1.tlog
+F:\BilgeAdam\Ödev\HastaneKuyrugu\HastaneKuyrugu\obj\x86\Debug\HastaneKuyrugu.exe
+F:\BilgeAdam\Ödev\HastaneKuyrugu\HastaneKuyrugu\obj\x86\Debug\HastaneKuyrugu.pdb
+F:\BilgeAdam\Ödev\HastaneKuyrugu\HastaneKuyrugu\bin\Debug\HastaneKuyrugu.exe
+F:\BilgeAdam\Ödev\HastaneKuyrugu\HastaneKuyrugu\bin\Debug\HastaneKuyrugu.pdb
+F:\BilgeAdam\Ödev\HastaneKuyrugu\HastaneKuyrugu\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\BilgeAdam\Ödev\HastaneKuyrugu\HastaneKuyrugu\obj\x86\Debug\HastaneKuyrugu.Form1.resources
+F:\BilgeAdam\Ödev\HastaneKuyrugu\HastaneKuyrugu\obj\x86\Debug\HastaneKuyrugu.Properties.Resources.resources
+F:\BilgeAdam\Ödev\HastaneKuyrugu\HastaneKuyrugu\obj\x86\Debug\GenerateResource.read.1.tlog
+F:\BilgeAdam\Ödev\HastaneKuyrugu\HastaneKuyrugu\obj\x86\Debug\GenerateResource.write.1.tlog

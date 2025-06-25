@@ -1,0 +1,34 @@
+C:\Users\CanHpLaptop\Desktop\!DersOrnekleri\YU3 3203\!WindowsProgramlama\06-PrintingGiris\06-PrintingGiris\bin\Debug\06-PrintingGiris.exe
+C:\Users\CanHpLaptop\Desktop\!DersOrnekleri\YU3 3203\!WindowsProgramlama\06-PrintingGiris\06-PrintingGiris\bin\Debug\06-PrintingGiris.pdb
+C:\Users\CanHpLaptop\Desktop\!DersOrnekleri\YU3 3203\!WindowsProgramlama\06-PrintingGiris\06-PrintingGiris\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\CanHpLaptop\Desktop\!DersOrnekleri\YU3 3203\!WindowsProgramlama\06-PrintingGiris\06-PrintingGiris\obj\x86\Debug\_06_PrintingGiris.Form1.resources
+C:\Users\CanHpLaptop\Desktop\!DersOrnekleri\YU3 3203\!WindowsProgramlama\06-PrintingGiris\06-PrintingGiris\obj\x86\Debug\_06_PrintingGiris.Properties.Resources.resources
+C:\Users\CanHpLaptop\Desktop\!DersOrnekleri\YU3 3203\!WindowsProgramlama\06-PrintingGiris\06-PrintingGiris\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\CanHpLaptop\Desktop\!DersOrnekleri\YU3 3203\!WindowsProgramlama\06-PrintingGiris\06-PrintingGiris\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\CanHpLaptop\Desktop\!DersOrnekleri\YU3 3203\!WindowsProgramlama\06-PrintingGiris\06-PrintingGiris\obj\x86\Debug\06-PrintingGiris.exe
+C:\Users\CanHpLaptop\Desktop\!DersOrnekleri\YU3 3203\!WindowsProgramlama\06-PrintingGiris\06-PrintingGiris\obj\x86\Debug\06-PrintingGiris.pdb
+C:\Users\CanHpLaptop\Desktop\!DersOrnekleri\YU3 3203\!WindowsProgramlama\06-PrintingGiris\06-PrintingGiris\obj\x86\Debug\_06_PrintingGiris.Form2.resources
+C:\Users\Ali\Desktop\06-PrintingGiris\06-PrintingGiris\obj\x86\Debug\06-PrintingGiris.exe
+C:\Users\Ali\Desktop\06-PrintingGiris\06-PrintingGiris\obj\x86\Debug\06-PrintingGiris.pdb
+C:\Users\Ali\Desktop\06-PrintingGiris\06-PrintingGiris\bin\Debug\06-PrintingGiris.exe
+C:\Users\Ali\Desktop\06-PrintingGiris\06-PrintingGiris\bin\Debug\06-PrintingGiris.pdb
+C:\Users\Ali\Desktop\06-PrintingGiris\06-PrintingGiris\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Ali\Desktop\06-PrintingGiris\06-PrintingGiris\obj\x86\Debug\_06_PrintingGiris.Form1.resources
+C:\Users\Ali\Desktop\06-PrintingGiris\06-PrintingGiris\obj\x86\Debug\_06_PrintingGiris.Form2.resources
+C:\Users\Ali\Desktop\06-PrintingGiris\06-PrintingGiris\obj\x86\Debug\_06_PrintingGiris.Form3.resources
+C:\Users\Ali\Desktop\06-PrintingGiris\06-PrintingGiris\obj\x86\Debug\_06_PrintingGiris.Properties.Resources.resources
+C:\Users\Ali\Desktop\06-PrintingGiris\06-PrintingGiris\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Ali\Desktop\06-PrintingGiris\06-PrintingGiris\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Ali\Desktop\bildiğimiz mcdonalds\06-PrintingGiris\obj\x86\Debug\06-PrintingGiris.exe
+C:\Users\Ali\Desktop\bildiğimiz mcdonalds\06-PrintingGiris\obj\x86\Debug\06-PrintingGiris.pdb
+C:\Users\Ali\Desktop\bildiğimiz mcdonalds\06-PrintingGiris\bin\Debug\06-PrintingGiris.exe
+C:\Users\Ali\Desktop\bildiğimiz mcdonalds\06-PrintingGiris\bin\Debug\06-PrintingGiris.pdb
+C:\Users\Ali\Desktop\bildiğimiz mcdonalds\06-PrintingGiris\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Ali\Desktop\bildiğimiz mcdonalds\06-PrintingGiris\obj\x86\Debug\_06_PrintingGiris.Form1.resources
+C:\Users\Ali\Desktop\bildiğimiz mcdonalds\06-PrintingGiris\obj\x86\Debug\_06_PrintingGiris.Form2.resources
+C:\Users\Ali\Desktop\bildiğimiz mcdonalds\06-PrintingGiris\obj\x86\Debug\_06_PrintingGiris.Form3.resources
+C:\Users\Ali\Desktop\bildiğimiz mcdonalds\06-PrintingGiris\obj\x86\Debug\_06_PrintingGiris.Properties.Resources.resources
+C:\Users\Ali\Desktop\bildiğimiz mcdonalds\06-PrintingGiris\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Ali\Desktop\bildiğimiz mcdonalds\06-PrintingGiris\obj\x86\Debug\GenerateResource.write.1.tlog
+F:\Ödev\Extra\bildiğimiz mcdonalds\06-PrintingGiris\obj\x86\Debug\06-PrintingGiris.exe
+F:\Ödev\Extra\bildiğimiz mcdonalds\06-PrintingGiris\obj\x86\Debug\06-PrintingGiris.pdb
