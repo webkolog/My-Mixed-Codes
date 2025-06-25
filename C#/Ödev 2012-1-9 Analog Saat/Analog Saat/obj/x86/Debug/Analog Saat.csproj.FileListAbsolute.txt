@@ -1,0 +1,36 @@
+D:\Projects\Yazılım\C#\2012-1-9\Analog Saat\bin\Debug\Analog Saat.exe
+D:\Projects\Yazılım\C#\2012-1-9\Analog Saat\bin\Debug\Analog Saat.pdb
+D:\Projects\Yazılım\C#\2012-1-9\Analog Saat\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Projects\Yazılım\C#\2012-1-9\Analog Saat\obj\x86\Debug\Analog_Saat.Form1.resources
+D:\Projects\Yazılım\C#\2012-1-9\Analog Saat\obj\x86\Debug\Analog_Saat.Properties.Resources.resources
+D:\Projects\Yazılım\C#\2012-1-9\Analog Saat\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\Projects\Yazılım\C#\2012-1-9\Analog Saat\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\Projects\Yazılım\C#\2012-1-9\Analog Saat\obj\x86\Debug\Analog Saat.exe
+D:\Projects\Yazılım\C#\2012-1-9\Analog Saat\obj\x86\Debug\Analog Saat.pdb
+D:\Projects\Yazılım\C#\Ödev 2012-1-9 Analog Saat\Analog Saat\obj\x86\Debug\Analog Saat.exe
+D:\Projects\Yazılım\C#\Ödev 2012-1-9 Analog Saat\Analog Saat\obj\x86\Debug\Analog Saat.pdb
+D:\Projects\Yazılım\C#\Ödev 2012-1-9 Analog Saat\Analog Saat\bin\Debug\Analog Saat.exe
+D:\Projects\Yazılım\C#\Ödev 2012-1-9 Analog Saat\Analog Saat\bin\Debug\Analog Saat.pdb
+D:\Projects\Yazılım\C#\Ödev 2012-1-9 Analog Saat\Analog Saat\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Projects\Yazılım\C#\Ödev 2012-1-9 Analog Saat\Analog Saat\obj\x86\Debug\Analog_Saat.Form1.resources
+D:\Projects\Yazılım\C#\Ödev 2012-1-9 Analog Saat\Analog Saat\obj\x86\Debug\Analog_Saat.Properties.Resources.resources
+D:\Projects\Yazılım\C#\Ödev 2012-1-9 Analog Saat\Analog Saat\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\Projects\Yazılım\C#\Ödev 2012-1-9 Analog Saat\Analog Saat\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Ali\Desktop\Ödev 2012-1-9 Analog Saat\Analog Saat\obj\x86\Debug\Analog Saat.exe
+C:\Users\Ali\Desktop\Ödev 2012-1-9 Analog Saat\Analog Saat\obj\x86\Debug\Analog Saat.pdb
+C:\Users\Ali\Desktop\Ödev 2012-1-9 Analog Saat\Analog Saat\bin\Debug\Analog Saat.exe
+C:\Users\Ali\Desktop\Ödev 2012-1-9 Analog Saat\Analog Saat\bin\Debug\Analog Saat.pdb
+C:\Users\Ali\Desktop\Ödev 2012-1-9 Analog Saat\Analog Saat\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Ali\Desktop\Ödev 2012-1-9 Analog Saat\Analog Saat\obj\x86\Debug\Analog_Saat.Form1.resources
+C:\Users\Ali\Desktop\Ödev 2012-1-9 Analog Saat\Analog Saat\obj\x86\Debug\Analog_Saat.Properties.Resources.resources
+C:\Users\Ali\Desktop\Ödev 2012-1-9 Analog Saat\Analog Saat\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Ali\Desktop\Ödev 2012-1-9 Analog Saat\Analog Saat\obj\x86\Debug\GenerateResource.write.1.tlog
+F:\Ödev\Ödev 2012-1-9 Analog Saat\Analog Saat\obj\x86\Debug\Analog Saat.exe
+F:\Ödev\Ödev 2012-1-9 Analog Saat\Analog Saat\obj\x86\Debug\Analog Saat.pdb
+F:\Ödev\Ödev 2012-1-9 Analog Saat\Analog Saat\bin\Debug\Analog Saat.exe
+F:\Ödev\Ödev 2012-1-9 Analog Saat\Analog Saat\bin\Debug\Analog Saat.pdb
+F:\Ödev\Ödev 2012-1-9 Analog Saat\Analog Saat\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\Ödev\Ödev 2012-1-9 Analog Saat\Analog Saat\obj\x86\Debug\Analog_Saat.Form1.resources
+F:\Ödev\Ödev 2012-1-9 Analog Saat\Analog Saat\obj\x86\Debug\Analog_Saat.Properties.Resources.resources
+F:\Ödev\Ödev 2012-1-9 Analog Saat\Analog Saat\obj\x86\Debug\GenerateResource.read.1.tlog
+F:\Ödev\Ödev 2012-1-9 Analog Saat\Analog Saat\obj\x86\Debug\GenerateResource.write.1.tlog
