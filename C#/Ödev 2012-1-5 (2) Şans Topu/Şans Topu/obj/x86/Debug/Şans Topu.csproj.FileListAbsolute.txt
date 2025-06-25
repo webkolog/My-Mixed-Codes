@@ -1,0 +1,9 @@
+D:\Projects\Yazılım\C#\Ödev 2012-1-5 (2) Şans Topu\Şans Topu\bin\Debug\Şans Topu.exe
+D:\Projects\Yazılım\C#\Ödev 2012-1-5 (2) Şans Topu\Şans Topu\bin\Debug\Şans Topu.pdb
+D:\Projects\Yazılım\C#\Ödev 2012-1-5 (2) Şans Topu\Şans Topu\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Projects\Yazılım\C#\Ödev 2012-1-5 (2) Şans Topu\Şans Topu\obj\x86\Debug\Şans_Topu.Form1.resources
+D:\Projects\Yazılım\C#\Ödev 2012-1-5 (2) Şans Topu\Şans Topu\obj\x86\Debug\Şans_Topu.Properties.Resources.resources
+D:\Projects\Yazılım\C#\Ödev 2012-1-5 (2) Şans Topu\Şans Topu\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\Projects\Yazılım\C#\Ödev 2012-1-5 (2) Şans Topu\Şans Topu\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\Projects\Yazılım\C#\Ödev 2012-1-5 (2) Şans Topu\Şans Topu\obj\x86\Debug\Şans Topu.exe
+D:\Projects\Yazılım\C#\Ödev 2012-1-5 (2) Şans Topu\Şans Topu\obj\x86\Debug\Şans Topu.pdb

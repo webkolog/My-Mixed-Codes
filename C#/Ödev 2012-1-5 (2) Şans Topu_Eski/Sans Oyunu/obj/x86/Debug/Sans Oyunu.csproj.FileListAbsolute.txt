@@ -1,0 +1,33 @@
+D:\Projects\Yazılım\C#\Ödev 2012-1-5 (2)\Sans Oyunu\bin\Debug\Sans Oyunu.exe
+D:\Projects\Yazılım\C#\Ödev 2012-1-5 (2)\Sans Oyunu\bin\Debug\Sans Oyunu.pdb
+D:\Projects\Yazılım\C#\Ödev 2012-1-5 (2)\Sans Oyunu\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Projects\Yazılım\C#\Ödev 2012-1-5 (2)\Sans Oyunu\obj\x86\Debug\Sans_Oyunu.Form1.resources
+D:\Projects\Yazılım\C#\Ödev 2012-1-5 (2)\Sans Oyunu\obj\x86\Debug\Sans_Oyunu.Properties.Resources.resources
+D:\Projects\Yazılım\C#\Ödev 2012-1-5 (2)\Sans Oyunu\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\Projects\Yazılım\C#\Ödev 2012-1-5 (2)\Sans Oyunu\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\Projects\Yazılım\C#\Ödev 2012-1-5 (2)\Sans Oyunu\obj\x86\Debug\Sans Oyunu.exe
+D:\Projects\Yazılım\C#\Ödev 2012-1-5 (2)\Sans Oyunu\obj\x86\Debug\Sans Oyunu.pdb
+F:\Ödev\Ödev 2012-1-5 (2)\Sans Oyunu\obj\x86\Debug\Sans Oyunu.exe
+F:\Ödev\Ödev 2012-1-5 (2)\Sans Oyunu\obj\x86\Debug\Sans Oyunu.pdb
+F:\Ödev\Ödev 2012-1-5 (2)\Sans Oyunu\bin\Debug\Sans Oyunu.exe
+F:\Ödev\Ödev 2012-1-5 (2)\Sans Oyunu\bin\Debug\Sans Oyunu.pdb
+F:\Ödev\Ödev 2012-1-5 (2)\Sans Oyunu\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\Ödev\Ödev 2012-1-5 (2)\Sans Oyunu\obj\x86\Debug\Sans_Oyunu.Form1.resources
+F:\Ödev\Ödev 2012-1-5 (2)\Sans Oyunu\obj\x86\Debug\Sans_Oyunu.Properties.Resources.resources
+F:\Ödev\Ödev 2012-1-5 (2)\Sans Oyunu\obj\x86\Debug\GenerateResource.read.1.tlog
+F:\Ödev\Ödev 2012-1-5 (2)\Sans Oyunu\obj\x86\Debug\GenerateResource.write.1.tlog
+H:\Ödev\Ödev 2012-1-5 (2)\Sans Oyunu\obj\x86\Debug\Sans Oyunu.exe
+H:\Ödev\Ödev 2012-1-5 (2)\Sans Oyunu\obj\x86\Debug\Sans Oyunu.pdb
+D:\Projects\Yazılım\C#\Ödev 2012-1-5 (2) Şans Topu\Sans Oyunu\obj\x86\Debug\Sans Oyunu.exe
+D:\Projects\Yazılım\C#\Ödev 2012-1-5 (2) Şans Topu\Sans Oyunu\obj\x86\Debug\Sans Oyunu.pdb
+D:\Projects\Yazılım\C#\Ödev 2012-1-5 (2) Şans Topu_\Sans Oyunu\obj\x86\Debug\Sans Oyunu.exe
+D:\Projects\Yazılım\C#\Ödev 2012-1-5 (2) Şans Topu_\Sans Oyunu\obj\x86\Debug\Sans Oyunu.pdb
+D:\Projects\Yazılım\C#\Ödev 2012-1-5 (2) Şans Topu_Eski\Sans Oyunu\obj\x86\Debug\Sans Oyunu.exe
+D:\Projects\Yazılım\C#\Ödev 2012-1-5 (2) Şans Topu_Eski\Sans Oyunu\obj\x86\Debug\Sans Oyunu.pdb
+D:\Projects\Yazılım\C#\Ödev 2012-1-5 (2) Şans Topu_Eski\Sans Oyunu\bin\Debug\Sans Oyunu.exe
+D:\Projects\Yazılım\C#\Ödev 2012-1-5 (2) Şans Topu_Eski\Sans Oyunu\bin\Debug\Sans Oyunu.pdb
+D:\Projects\Yazılım\C#\Ödev 2012-1-5 (2) Şans Topu_Eski\Sans Oyunu\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Projects\Yazılım\C#\Ödev 2012-1-5 (2) Şans Topu_Eski\Sans Oyunu\obj\x86\Debug\Sans_Oyunu.Form1.resources
+D:\Projects\Yazılım\C#\Ödev 2012-1-5 (2) Şans Topu_Eski\Sans Oyunu\obj\x86\Debug\Sans_Oyunu.Properties.Resources.resources
+D:\Projects\Yazılım\C#\Ödev 2012-1-5 (2) Şans Topu_Eski\Sans Oyunu\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\Projects\Yazılım\C#\Ödev 2012-1-5 (2) Şans Topu_Eski\Sans Oyunu\obj\x86\Debug\GenerateResource.write.1.tlog
