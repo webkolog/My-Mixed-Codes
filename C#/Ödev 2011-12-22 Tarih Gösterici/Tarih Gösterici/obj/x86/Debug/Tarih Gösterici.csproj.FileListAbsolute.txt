@@ -1,0 +1,11 @@
+D:\Projects\Yazılım\C#\Ödev 2011-12-22\Tarih Gösterici\bin\Debug\Tarih Gösterici.exe
+D:\Projects\Yazılım\C#\Ödev 2011-12-22\Tarih Gösterici\bin\Debug\Tarih Gösterici.pdb
+D:\Projects\Yazılım\C#\Ödev 2011-12-22\Tarih Gösterici\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Projects\Yazılım\C#\Ödev 2011-12-22\Tarih Gösterici\obj\x86\Debug\Tarih_Gösterici.Form1.resources
+D:\Projects\Yazılım\C#\Ödev 2011-12-22\Tarih Gösterici\obj\x86\Debug\Tarih_Gösterici.Properties.Resources.resources
+D:\Projects\Yazılım\C#\Ödev 2011-12-22\Tarih Gösterici\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\Projects\Yazılım\C#\Ödev 2011-12-22\Tarih Gösterici\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\Projects\Yazılım\C#\Ödev 2011-12-22\Tarih Gösterici\obj\x86\Debug\Tarih Gösterici.exe
+D:\Projects\Yazılım\C#\Ödev 2011-12-22\Tarih Gösterici\obj\x86\Debug\Tarih Gösterici.pdb
+D:\Projects\Yazılım\C#\Ödev 2011-12-22 Tarih Gösterici\Tarih Gösterici\obj\x86\Debug\Tarih Gösterici.exe
+D:\Projects\Yazılım\C#\Ödev 2011-12-22 Tarih Gösterici\Tarih Gösterici\obj\x86\Debug\Tarih Gösterici.pdb

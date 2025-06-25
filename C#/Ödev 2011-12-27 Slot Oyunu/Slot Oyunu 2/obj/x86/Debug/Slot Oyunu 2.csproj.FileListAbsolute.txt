@@ -1,0 +1,13 @@
+D:\Projects\Yazılım\C#\Ödev 2011-12-27\Slot Oyunu 2\bin\Debug\Slot Oyunu 2.exe
+D:\Projects\Yazılım\C#\Ödev 2011-12-27\Slot Oyunu 2\bin\Debug\Slot Oyunu 2.pdb
+D:\Projects\Yazılım\C#\Ödev 2011-12-27\Slot Oyunu 2\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Projects\Yazılım\C#\Ödev 2011-12-27\Slot Oyunu 2\obj\x86\Debug\Slot_Oyunu_2.Form1.resources
+D:\Projects\Yazılım\C#\Ödev 2011-12-27\Slot Oyunu 2\obj\x86\Debug\Slot_Oyunu_2.Properties.Resources.resources
+D:\Projects\Yazılım\C#\Ödev 2011-12-27\Slot Oyunu 2\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\Projects\Yazılım\C#\Ödev 2011-12-27\Slot Oyunu 2\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\Projects\Yazılım\C#\Ödev 2011-12-27\Slot Oyunu 2\obj\x86\Debug\Slot Oyunu 2.exe
+D:\Projects\Yazılım\C#\Ödev 2011-12-27\Slot Oyunu 2\obj\x86\Debug\Slot Oyunu 2.pdb
+G:\Ödev\Ödev 2011-12-27\Slot Oyunu 2\obj\x86\Debug\Slot Oyunu 2.exe
+G:\Ödev\Ödev 2011-12-27\Slot Oyunu 2\obj\x86\Debug\Slot Oyunu 2.pdb
+D:\Projects\Yazılım\C#\Ödev 2011-12-27 Slot Oyunu\Slot Oyunu 2\obj\x86\Debug\Slot Oyunu 2.exe
+D:\Projects\Yazılım\C#\Ödev 2011-12-27 Slot Oyunu\Slot Oyunu 2\obj\x86\Debug\Slot Oyunu 2.pdb
