@@ -1,0 +1,5 @@
+c:\users\ali\documents\visual studio 2010\Projects\Odev_CB Valudaor kontrol\Odev_CB Valudaor kontrol\bin\Odev_CB Valudaor kontrol.dll
+c:\users\ali\documents\visual studio 2010\Projects\Odev_CB Valudaor kontrol\Odev_CB Valudaor kontrol\bin\Odev_CB Valudaor kontrol.pdb
+c:\users\ali\documents\visual studio 2010\Projects\Odev_CB Valudaor kontrol\Odev_CB Valudaor kontrol\obj\Debug\ResolveAssemblyReference.cache
+c:\users\ali\documents\visual studio 2010\Projects\Odev_CB Valudaor kontrol\Odev_CB Valudaor kontrol\obj\Debug\Odev_CB Valudaor kontrol.dll
+c:\users\ali\documents\visual studio 2010\Projects\Odev_CB Valudaor kontrol\Odev_CB Valudaor kontrol\obj\Debug\Odev_CB Valudaor kontrol.pdb

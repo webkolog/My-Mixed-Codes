@@ -1,0 +1,5 @@
+c:\users\ali\documents\visual studio 2010\Projects\sayfalamaDeneme\sayfalamaDeneme\bin\sayfalamaDeneme.dll
+c:\users\ali\documents\visual studio 2010\Projects\sayfalamaDeneme\sayfalamaDeneme\bin\sayfalamaDeneme.pdb
+c:\users\ali\documents\visual studio 2010\Projects\sayfalamaDeneme\sayfalamaDeneme\obj\Debug\ResolveAssemblyReference.cache
+c:\users\ali\documents\visual studio 2010\Projects\sayfalamaDeneme\sayfalamaDeneme\obj\Debug\sayfalamaDeneme.dll
+c:\users\ali\documents\visual studio 2010\Projects\sayfalamaDeneme\sayfalamaDeneme\obj\Debug\sayfalamaDeneme.pdb

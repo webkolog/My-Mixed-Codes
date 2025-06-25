@@ -1,0 +1,22 @@
+C:\Users\CanHpLaptop\Desktop\!DersOrnekleri\YU3 3203\!ADO.Net\07-AdoOrnek\07-AdoOrnek\bin\Debug\07-AdoOrnek.exe
+C:\Users\CanHpLaptop\Desktop\!DersOrnekleri\YU3 3203\!ADO.Net\07-AdoOrnek\07-AdoOrnek\bin\Debug\07-AdoOrnek.pdb
+C:\Users\CanHpLaptop\Desktop\!DersOrnekleri\YU3 3203\!ADO.Net\07-AdoOrnek\07-AdoOrnek\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\CanHpLaptop\Desktop\!DersOrnekleri\YU3 3203\!ADO.Net\07-AdoOrnek\07-AdoOrnek\obj\x86\Debug\_07_AdoOrnek.Form1.resources
+C:\Users\CanHpLaptop\Desktop\!DersOrnekleri\YU3 3203\!ADO.Net\07-AdoOrnek\07-AdoOrnek\obj\x86\Debug\_07_AdoOrnek.Properties.Resources.resources
+C:\Users\CanHpLaptop\Desktop\!DersOrnekleri\YU3 3203\!ADO.Net\07-AdoOrnek\07-AdoOrnek\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\CanHpLaptop\Desktop\!DersOrnekleri\YU3 3203\!ADO.Net\07-AdoOrnek\07-AdoOrnek\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\CanHpLaptop\Desktop\!DersOrnekleri\YU3 3203\!ADO.Net\07-AdoOrnek\07-AdoOrnek\obj\x86\Debug\07-AdoOrnek.exe
+C:\Users\CanHpLaptop\Desktop\!DersOrnekleri\YU3 3203\!ADO.Net\07-AdoOrnek\07-AdoOrnek\obj\x86\Debug\07-AdoOrnek.pdb
+D:\Projects\Bilge Adam\Hocanın Yaptıkları\!ADO.NEt\07-AdoOrnek\07-AdoOrnek\obj\x86\Debug\07-AdoOrnek.exe
+D:\Projects\Bilge Adam\Hocanın Yaptıkları\!ADO.NEt\07-AdoOrnek\07-AdoOrnek\obj\x86\Debug\07-AdoOrnek.pdb
+C:\Users\Ali\Desktop\07-AdoOrnek\07-AdoOrnek\obj\x86\Debug\07-AdoOrnek.exe
+C:\Users\Ali\Desktop\07-AdoOrnek\07-AdoOrnek\obj\x86\Debug\07-AdoOrnek.pdb
+C:\Users\Ali\Desktop\07-AdoOrnek\07-AdoOrnek\bin\Debug\07-AdoOrnek.exe
+C:\Users\Ali\Desktop\07-AdoOrnek\07-AdoOrnek\bin\Debug\07-AdoOrnek.pdb
+C:\Users\Ali\Desktop\07-AdoOrnek\07-AdoOrnek\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Ali\Desktop\07-AdoOrnek\07-AdoOrnek\obj\x86\Debug\_07_AdoOrnek.Form1.resources
+C:\Users\Ali\Desktop\07-AdoOrnek\07-AdoOrnek\obj\x86\Debug\_07_AdoOrnek.Properties.Resources.resources
+C:\Users\Ali\Desktop\07-AdoOrnek\07-AdoOrnek\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Ali\Desktop\07-AdoOrnek\07-AdoOrnek\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\ogrenci\Desktop\Alinin yaptığı Seçilen silineni geri alma\07-AdoOrnek\07-AdoOrnek\obj\x86\Debug\07-AdoOrnek.exe
+C:\Users\ogrenci\Desktop\Alinin yaptığı Seçilen silineni geri alma\07-AdoOrnek\07-AdoOrnek\obj\x86\Debug\07-AdoOrnek.pdb
