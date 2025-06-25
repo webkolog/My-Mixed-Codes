@@ -1,0 +1,9 @@
+D:\Projects\Yazılım\C#\Ödev 2011-12-15\Formu Titret\bin\Debug\Formu Titret.exe
+D:\Projects\Yazılım\C#\Ödev 2011-12-15\Formu Titret\bin\Debug\Formu Titret.pdb
+D:\Projects\Yazılım\C#\Ödev 2011-12-15\Formu Titret\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Projects\Yazılım\C#\Ödev 2011-12-15\Formu Titret\obj\x86\Debug\Formu_Titret.Form1.resources
+D:\Projects\Yazılım\C#\Ödev 2011-12-15\Formu Titret\obj\x86\Debug\Formu_Titret.Properties.Resources.resources
+D:\Projects\Yazılım\C#\Ödev 2011-12-15\Formu Titret\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\Projects\Yazılım\C#\Ödev 2011-12-15\Formu Titret\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\Projects\Yazılım\C#\Ödev 2011-12-15\Formu Titret\obj\x86\Debug\Formu Titret.exe
+D:\Projects\Yazılım\C#\Ödev 2011-12-15\Formu Titret\obj\x86\Debug\Formu Titret.pdb

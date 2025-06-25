@@ -1,0 +1,9 @@
+D:\Projects\Yazılım\C#\Ödev 2011-12-15 (2)\Ay Bulucu\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Projects\Yazılım\C#\Ödev 2011-12-15 (2)\Ay Bulucu\obj\x86\Debug\Ay_Bulucu.Form1.resources
+D:\Projects\Yazılım\C#\Ödev 2011-12-15 (2)\Ay Bulucu\obj\x86\Debug\Ay_Bulucu.Properties.Resources.resources
+D:\Projects\Yazılım\C#\Ödev 2011-12-15 (2)\Ay Bulucu\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\Projects\Yazılım\C#\Ödev 2011-12-15 (2)\Ay Bulucu\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\Projects\Yazılım\C#\Ödev 2011-12-15 (2)\Ay Bulucu\bin\Debug\Ay Bulucu.exe
+D:\Projects\Yazılım\C#\Ödev 2011-12-15 (2)\Ay Bulucu\bin\Debug\Ay Bulucu.pdb
+D:\Projects\Yazılım\C#\Ödev 2011-12-15 (2)\Ay Bulucu\obj\x86\Debug\Ay Bulucu.exe
+D:\Projects\Yazılım\C#\Ödev 2011-12-15 (2)\Ay Bulucu\obj\x86\Debug\Ay Bulucu.pdb

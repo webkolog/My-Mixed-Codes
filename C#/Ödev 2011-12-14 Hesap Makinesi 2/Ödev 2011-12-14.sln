@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Hesap Makinesi 2", "Hesap Makinesi 2\Hesap Makinesi 2.csproj", "{4AC76F2B-2239-4381-980A-E61557B4BCDA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4AC76F2B-2239-4381-980A-E61557B4BCDA}.Debug|x86.ActiveCfg = Debug|x86
+		{4AC76F2B-2239-4381-980A-E61557B4BCDA}.Debug|x86.Build.0 = Debug|x86
+		{4AC76F2B-2239-4381-980A-E61557B4BCDA}.Release|x86.ActiveCfg = Release|x86
+		{4AC76F2B-2239-4381-980A-E61557B4BCDA}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
