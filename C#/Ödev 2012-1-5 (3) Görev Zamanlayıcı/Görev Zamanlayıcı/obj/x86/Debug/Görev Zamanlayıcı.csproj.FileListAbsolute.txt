@@ -1,0 +1,26 @@
+D:\Projects\Yazılım\C#\Ödev 2012-1-5 (3)\Görev Zamanlayıcı\bin\Debug\Görev Zamanlayıcı.exe
+D:\Projects\Yazılım\C#\Ödev 2012-1-5 (3)\Görev Zamanlayıcı\bin\Debug\Görev Zamanlayıcı.pdb
+D:\Projects\Yazılım\C#\Ödev 2012-1-5 (3)\Görev Zamanlayıcı\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Projects\Yazılım\C#\Ödev 2012-1-5 (3)\Görev Zamanlayıcı\obj\x86\Debug\Görev_Zamanlayıcı.Form1.resources
+D:\Projects\Yazılım\C#\Ödev 2012-1-5 (3)\Görev Zamanlayıcı\obj\x86\Debug\Görev_Zamanlayıcı.Properties.Resources.resources
+D:\Projects\Yazılım\C#\Ödev 2012-1-5 (3)\Görev Zamanlayıcı\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\Projects\Yazılım\C#\Ödev 2012-1-5 (3)\Görev Zamanlayıcı\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\Projects\Yazılım\C#\Ödev 2012-1-5 (3)\Görev Zamanlayıcı\obj\x86\Debug\Görev Zamanlayıcı.exe
+D:\Projects\Yazılım\C#\Ödev 2012-1-5 (3)\Görev Zamanlayıcı\obj\x86\Debug\Görev Zamanlayıcı.pdb
+F:\Ödev\Ödev 2012-1-5 (3)\Görev Zamanlayıcı\obj\x86\Debug\Görev Zamanlayıcı.exe
+F:\Ödev\Ödev 2012-1-5 (3)\Görev Zamanlayıcı\obj\x86\Debug\Görev Zamanlayıcı.pdb
+D:\Projects\Yazılım\C#\Ödev 2012-1-5 (3) Görev Zamanlayıcı\Görev Zamanlayıcı\obj\x86\Debug\Görev Zamanlayıcı.exe
+D:\Projects\Yazılım\C#\Ödev 2012-1-5 (3) Görev Zamanlayıcı\Görev Zamanlayıcı\obj\x86\Debug\Görev Zamanlayıcı.pdb
+D:\Projects\Yazılım\C#\Ödev 2012-1-5 (3) Görev Zamanlayıcı\Görev Zamanlayıcı\bin\Debug\Görev Zamanlayıcı.exe
+D:\Projects\Yazılım\C#\Ödev 2012-1-5 (3) Görev Zamanlayıcı\Görev Zamanlayıcı\bin\Debug\Görev Zamanlayıcı.pdb
+D:\Projects\Yazılım\C#\Ödev 2012-1-5 (3) Görev Zamanlayıcı\Görev Zamanlayıcı\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Projects\Yazılım\C#\Ödev 2012-1-5 (3) Görev Zamanlayıcı\Görev Zamanlayıcı\obj\x86\Debug\Görev_Zamanlayıcı.Form1.resources
+D:\Projects\Yazılım\C#\Ödev 2012-1-5 (3) Görev Zamanlayıcı\Görev Zamanlayıcı\obj\x86\Debug\Görev_Zamanlayıcı.Properties.Resources.resources
+D:\Projects\Yazılım\C#\Ödev 2012-1-5 (3) Görev Zamanlayıcı\Görev Zamanlayıcı\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\Projects\Yazılım\C#\Ödev 2012-1-5 (3) Görev Zamanlayıcı\Görev Zamanlayıcı\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\Projects\Yazılım\C#\Ödev 2012-1-5 (3) Görev Zamanlayıcı\Görev Zamanlayıcı\bin\Debug\Görev Zamanlayıcı.exe.config
+D:\Projects\Yazılım\C#\Ödev 2012-1-5 (3) Görev Zamanlayıcı\Görev Zamanlayıcı\bin\Debug\Görev Zamanlayıcı.exe.manifest
+D:\Projects\Yazılım\C#\Ödev 2012-1-5 (3) Görev Zamanlayıcı\Görev Zamanlayıcı\bin\Debug\Görev Zamanlayıcı.application
+D:\Projects\Yazılım\C#\Ödev 2012-1-5 (3) Görev Zamanlayıcı\Görev Zamanlayıcı\obj\x86\Debug\Görev Zamanlayıcı.TrustInfo.xml
+D:\Projects\Yazılım\C#\Ödev 2012-1-5 (3) Görev Zamanlayıcı\Görev Zamanlayıcı\obj\x86\Debug\Görev Zamanlayıcı.exe.manifest
+D:\Projects\Yazılım\C#\Ödev 2012-1-5 (3) Görev Zamanlayıcı\Görev Zamanlayıcı\obj\x86\Debug\Görev Zamanlayıcı.application

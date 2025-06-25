@@ -1,0 +1,57 @@
+            //   /l         Log off. 
+            //   /s         Shutdown the computer.
+            //   /r         Shutdown and restart the computer.
+            //   /f         Force running applications to close without forewarning users.
+            //              /f is automatically set when used in conjunction with /t xxx.
+            //   /t xxx     Set the time-out period before shutdown to xxx seconds.
+            //              The valid range is 0-600, with a default of 30.
+            //              Using /t xxx implies the /f option.
+
+        System.Diagnostics.Process.Start("shutdown", "-h -f");
+        System.Diagnostics.Process.Start("shutdown", "-l -f");
+
+/////////////////////////////////////////////////////////////////////////
+
+       private void RunStartup(bool RunOnStartup)
+        {
+            string path = "SOFTWARE\\Microsoft\\Windows\\CurrentVersion\\Run";
+            RegistryKey key = Registry.CurrentUser.OpenSubKey(path, true);
+            if (RunOnStartup == true)
+            {
+                key.SetValue("MyAlarm", Application.ExecutablePath.ToString());
+            }
+            else
+            {
+                key.DeleteValue("MyAlarm", false);
+            }
+            key.Close();
+        }
+
+/////////////////////////////////////////////////////////////////////////
+
+using System.IO;
+
+	    File.WriteAllText("c:\\deneme\\deneme.txt", "Icerik Metni");
+            string okunanveri = File.ReadAllText("c:\\deneme\\deneme.txt");
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

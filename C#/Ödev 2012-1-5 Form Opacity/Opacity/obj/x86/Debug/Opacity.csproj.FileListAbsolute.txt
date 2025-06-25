@@ -1,0 +1,20 @@
+D:\Projects\Yazılım\C#\Ödev 2012-1-2\Opacity\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Projects\Yazılım\C#\Ödev 2012-1-2\Opacity\obj\x86\Debug\Opacity.Form1.resources
+D:\Projects\Yazılım\C#\Ödev 2012-1-2\Opacity\obj\x86\Debug\Opacity.Properties.Resources.resources
+D:\Projects\Yazılım\C#\Ödev 2012-1-2\Opacity\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\Projects\Yazılım\C#\Ödev 2012-1-2\Opacity\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\Projects\Yazılım\C#\Ödev 2012-1-2\Opacity\bin\Debug\Opacity.exe
+D:\Projects\Yazılım\C#\Ödev 2012-1-2\Opacity\bin\Debug\Opacity.pdb
+D:\Projects\Yazılım\C#\Ödev 2012-1-2\Opacity\obj\x86\Debug\Opacity.exe
+D:\Projects\Yazılım\C#\Ödev 2012-1-2\Opacity\obj\x86\Debug\Opacity.pdb
+D:\Projects\Yazılım\C#\Ödev 2012-1-5\Opacity\obj\x86\Debug\Opacity.exe
+D:\Projects\Yazılım\C#\Ödev 2012-1-5\Opacity\obj\x86\Debug\Opacity.pdb
+D:\Projects\Yazılım\C#\Ödev 2012-1-5\Opacity\bin\Debug\Opacity.exe
+D:\Projects\Yazılım\C#\Ödev 2012-1-5\Opacity\bin\Debug\Opacity.pdb
+D:\Projects\Yazılım\C#\Ödev 2012-1-5\Opacity\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Projects\Yazılım\C#\Ödev 2012-1-5\Opacity\obj\x86\Debug\Opacity.Form1.resources
+D:\Projects\Yazılım\C#\Ödev 2012-1-5\Opacity\obj\x86\Debug\Opacity.Properties.Resources.resources
+D:\Projects\Yazılım\C#\Ödev 2012-1-5\Opacity\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\Projects\Yazılım\C#\Ödev 2012-1-5\Opacity\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\Projects\Yazılım\C#\Ödev 2012-1-5 Form Opacity\Opacity\obj\x86\Debug\Opacity.exe
+D:\Projects\Yazılım\C#\Ödev 2012-1-5 Form Opacity\Opacity\obj\x86\Debug\Opacity.pdb
